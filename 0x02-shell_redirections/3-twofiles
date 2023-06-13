@@ -1,2 +1,2 @@
 #!/bin/bash
-cta /etc/(passwd,hosts)
+cta /etc/{passwd,hosts}
